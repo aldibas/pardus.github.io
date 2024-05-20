@@ -1,4 +1,13 @@
-#### 12.05.2023 - [Osman Coskun](https://github.com/osmancoskun) 
+---
+layout: default
+title:  "Developing Linux GUI Applications with Python and GTK4"
+date:   2023-05-12 00:00:00
+cover_image: "https://raw.githubusercontent.com/sharmaabhishekk/sharmaabhishekk.github.io/master/images/cover.png"
+categories: main
+tag: "advanced"
+author: "Osman Coskun"
+---
+#### 2023.05.12 - [Osman Coskun](https://github.com/osmancoskun) 
 # Developing Linux GUI Applications with Python and GTK4 
 
 Unlock the potential of Linux GUI application development using Python and GTK4. In this guide, we explore the powerful combination of Python's simplicity with GTK4's extensive widget library. Whether you're a beginner or experienced Python developer, this post provides a solid foundation to create stunning cross-platform desktop applications. Explore the core concepts, set up your development environment, build your first application, explore advanced topics, and learn about packaging and deployment. Let's improve ourselves to shape the future of Linux application development.
