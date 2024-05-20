@@ -1,6 +1,6 @@
 import { defineMDSveXConfig as defineConfig } from "mdsvex";
 const config = defineConfig({
-  extensions: [".md", ".svx"],
+  extensions: [".md", ".svx", ".svelte"],
   layout: {
     default: "./src/routes/wiki/default-layout.svelte",
     fancy: "./src/routes/wiki/default-layout.svelte",

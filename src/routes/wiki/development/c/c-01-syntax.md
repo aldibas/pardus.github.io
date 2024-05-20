@@ -1,13 +1,5 @@
----
-layout: default
-title:  "C syntax"
-date:   2024-05-20 00:00:00
-cover_image: "https://raw.githubusercontent.com/pardus/pardus.github.io/main/src/lib/assets/c-cover.png"
-categories: main
-tag: "advanced"
-author: "Aliriza Keskin"
----
 #### 2024.05.20 - [Aliriza Keskin](https://github.com/sulincix)
+
 # C Syntax
 
 C is a compiled programming language.
@@ -33,6 +25,7 @@ Note: Our compiler can also directly compile without generating .o.
 ```shell
 $ gcc -o main main.c
 ```
+
 ## Commenting
 
 There are three ways to comment in C code:
@@ -155,6 +148,7 @@ int *array = {12, 22, 31};
 ```
 
 Or, declaring with a specified length:
+
 ```c
 int array[3] = {12, 22, 31};
 ```
