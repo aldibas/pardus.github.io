@@ -1,11 +1,3 @@
-<div align="top">
-  <div style="display: flex;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-    <img style="width: 15%; height: 15%" title="TÜBİTAK-ULAKBİM" src="/src/lib/assets/ulakbim.png" class="img-fluid" alt="">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-    <img style="width: 15%; height: 15%" title="Turkey Open Source Platform" src="/src/lib/assets/acikkaynakplatformu.png" class="img-fluid" alt="">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-    <img style="width: 15%; height: 15%;" title="Pardus" src="/src/lib/assets/logo.svg" class="img-fluid" alt="">
-  </div>
-</div>
-
 ## Liderahenk Central Management System
 
 Liderahenk Central Management System
