@@ -101,4 +101,4 @@ screenfetch
 
 </br>
 
-Sonraki  >>  [Özgür Yazılım -freesoftware-](../hakkinda/tr_free-software.md)
+Sonraki  >>  [Özgür Yazılım -FreeSoftware-](../hakkinda/free-software.md)
