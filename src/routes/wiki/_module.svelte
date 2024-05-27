@@ -1,7 +1,11 @@
 <script>
   import { Navigation } from "$layout";
   import "$lib/github-markdown.css";
+<<<<<<< HEAD
   import "$lib/github-markdown-colors.css";
+=======
+  import "$lib/github-markdown-code.css";
+>>>>>>> upstream/main
 </script>
 
 <!-- routify:meta reset -->
